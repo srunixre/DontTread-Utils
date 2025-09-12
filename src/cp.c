@@ -6,6 +6,7 @@
 #include <errno.h>
 #include <string.h>
 #include <getopt.h>
+#include <dirent.h>
 
 int recursive = 0;
 int verbose = 0;
